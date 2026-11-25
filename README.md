@@ -1,4 +1,4 @@
-# K-Nearest Neighbors (KNN) - Interview Revision Notes
+# K-Nearest Neighbors (KNN) - IN MY WORDS
 
 ## 1. What is KNN?
 - KNN is a **supervised, non-parametric, lazy learning** algorithm.
